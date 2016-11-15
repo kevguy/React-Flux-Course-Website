@@ -2,9 +2,6 @@
 
 This is a sample course web application built mainly using React and Flux following a course on [PluralSight](http://www.pluralsight.com/author/cory-house) 
 
-<img src="flux01.png" width="75%">
-<img src="flux02.png" width="75%">
-
 ##Main Technical Features are listed as follows:
 - React, React Router, and Flux for ultra-responsive UI development  
 - Browserify bundling  
@@ -17,6 +14,10 @@ This is a sample course web application built mainly using React and Flux follow
 -- runs a dev webserver  
 -- opens your browser at the dev URL  
 -- reloads the browser upon save  
+
+##Screenshots:
+<img src="flux01.png" width="50%">
+<img src="flux02.png" width="50%">
 
 ##To get started:  
 1. Install [NodeJS](http://www.nodejs.org)  
